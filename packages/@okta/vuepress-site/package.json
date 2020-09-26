@@ -27,7 +27,7 @@
   "dependencies": {
     "@okta/vuepress-plugin-my-okta": "^1.0.0",
     "js-yaml": "^3.13.1",
-    "markdown-it-attrs": "2.3.2",
+    "markdown-it-attrs": "2.4.1",
     "vuepress-plugin-sitemap": "^2.1.2",
     "xml2js": "^0.4.19"
   },
